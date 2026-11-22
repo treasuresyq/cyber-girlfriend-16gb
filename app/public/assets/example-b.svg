@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" role="img" aria-label="Mauve night portrait placeholder">
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1c1b28"/>
+      <stop offset=".54" stop-color="#554652"/>
+      <stop offset="1" stop-color="#a47a7d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".24" cy=".18" r=".7">
+      <stop stop-color="#f6c7c3" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#f6c7c3" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hair" x1=".18" y1="0" x2=".82" y2="1">
+      <stop stop-color="#29232d"/>
+      <stop offset="1" stop-color="#5b454e"/>
+    </linearGradient>
+    <linearGradient id="dress" x1=".2" y1="0" x2=".8" y2="1">
+      <stop stop-color="#efe5df"/>
+      <stop offset="1" stop-color="#cbb7bd"/>
+    </linearGradient>
+  </defs>
+  <rect width="768" height="1024" fill="url(#night)"/>
+  <rect width="768" height="1024" fill="url(#glow)"/>
+  <path d="M58 188c99 62 151 144 160 247" fill="none" stroke="#ffd8d3" stroke-opacity=".08" stroke-width="72"/>
+  <circle cx="678" cy="744" r="158" fill="#e9c2b9" fill-opacity=".06"/>
+  <path d="M79 1024c27-255 138-363 305-363s278 108 305 363" fill="url(#dress)"/>
+  <path d="M204 510c0-180 72-299 180-299s180 119 180 299c0 178-69 300-180 300s-180-122-180-300z" fill="url(#hair)"/>
+  <ellipse cx="384" cy="431" rx="114" ry="148" fill="#dba897"/>
+  <path d="M262 380c15-101 69-158 139-158 77 0 132 60 138 170-41-39-91-66-149-66-43 0-86 17-128 54z" fill="#342936"/>
+  <path d="M421 257c73 18 120 82 121 183 35-106 5-194-121-183z" fill="#4f3945"/>
+  <path d="M307 451c14-10 29-10 43 0M418 451c14-10 29-10 43 0" fill="none" stroke="#514046" stroke-linecap="round" stroke-width="7"/>
+  <path d="M368 510c11 7 22 7 33 0" fill="none" stroke="#9b6c71" stroke-linecap="round" stroke-width="6"/>
+  <path d="M383 458c-7 21-5 36 7 44" fill="none" stroke="#bd887e" stroke-linecap="round" stroke-width="5"/>
+  <path d="M350 557c22 14 45 14 68 0" fill="none" stroke="#945f69" stroke-linecap="round" stroke-width="7"/>
+  <path d="M307 686c49 32 105 32 154 0" fill="none" stroke="#fff3ed" stroke-opacity=".34" stroke-width="15"/>
+  <circle cx="622" cy="214" r="3.5" fill="#ffe3df" fill-opacity=".62"/>
+  <circle cx="116" cy="362" r="2.5" fill="#ffe3df" fill-opacity=".44"/>
+</svg>
